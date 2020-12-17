@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**java255555/java255555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+** java255555 / java255555 **是一个_special_✨存储库，因为其`README.md`（此文件）出现在您的GitHub个人资料中。
+我的qq945768271
+这里有一些想法可以帮助您入门
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
